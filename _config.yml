@@ -27,8 +27,6 @@ columns: 4
 # Integer: Max height for rows
 max_height: 400
 
-# Handle
-instagram: andy.fuji
 
 ######################
 # END OF CONFIG CODE #
@@ -42,10 +40,10 @@ name: Gallery
 description: Photography Portfolio
 
 # Your name, as you want it to appear underneath each post and in the footer
-author: Andy Zhang
+author: simplymathematics
 
 # Your email if you want it to be linked on the contact page
-author_email: andzhng@gmail.com
+author_email: hello@simplymathematics.xyz
 
 # The directory for category index pages. Change it to something else if
 # for example you want links like /categories/category1 instead of /category1
@@ -55,7 +53,7 @@ category_dir: /
 # Note - if you enable this, and attempt to view your site locally you have to use the baseurl in your local path.
 # Example, you must use http://localhost:4000/path/to/blog
 #baseurl: /path/to/blog
-baseurl: /
+baseurl: simplymathematics.xyz/gallery
 
 # The URL of your actual domain. This will be used to make absolute links in the RSS feed.
 # url: http://andyzhang.net/gallery
